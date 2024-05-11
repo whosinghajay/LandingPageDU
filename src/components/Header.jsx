@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="h-[50px] sm:h-[100px] pt-6 sm:pt-[30px] pl-4 sm:pl-[150px] pr-0 sm:pr-[150px] flex justify-between items-center text-center border-b-4 pb-6">
+    <div className="h-[50px] sm:h-[100px] pt-6 sm:pt-[30px] pl-8 sm:pl-[150px] pr-0 sm:pr-[150px] flex justify-between items-center text-center border-b-4 pb-6">
       <div className="hidden sm:block">
         <img src="/logo.svg" alt="" />
       </div>
